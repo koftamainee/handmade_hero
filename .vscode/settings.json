@@ -1,0 +1,12 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "MSVC Shell": {
+      "path": "C:\\Windows\\System32\\cmd.exe",
+      "args": [
+        "/k",
+        "W:\\handmade_hero\\misc\\shell.bat"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "MSVC Shell"
+}
